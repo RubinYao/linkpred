@@ -19,7 +19,7 @@ While some predictors are fairly straightforward (e.g., if two people have a lar
 Installation
 ------------
 
-**linkpred** (on master) works under Python 3.6, 3.7, and 3.8. Version 0.4.1 was the last to support versions 3.4 and 3.5.
+**linkpred** (on master) works under Python 3.6 and 3.7. Version 0.4.1 was the last to support versions 3.4 and 3.5.
 It depends on:
 
 - matplotlib
